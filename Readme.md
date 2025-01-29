@@ -1,1 +1,1 @@
-Contme vários exemplos de KNIME focado em análise de dados
+Contém projetos en KNIME focado em Machine Learning para análise de dados com base estatística
