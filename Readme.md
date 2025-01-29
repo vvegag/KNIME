@@ -1,0 +1,1 @@
+Contme vários exemplos de KNIME focado em análise de dados
